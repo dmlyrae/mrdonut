@@ -344,7 +344,7 @@ body {
     background-repeat: no-repeat;
 }
 .slider-img-1 {
-    background-image: url(/images/donuts-slider.svg);
+    background-image: url(../images/donuts-slider.svg);
 }
 .product-description {
     padding: 40px;
@@ -412,7 +412,7 @@ body {
     margin-left: calc(50vw - 840px);
 }
 .arrow-next, .arrow-prev {
-    background-image: url(/images/arrow-next.svg);
+    background-image: url(../images/arrow-next.svg);
     background-color: var(--accent-color);
     background-repeat: no-repeat;
     background-size: 28px;
