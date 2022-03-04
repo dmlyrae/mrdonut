@@ -212,10 +212,10 @@ body {
     width: 100%;
 }
 .main-slide-1 {
-    background-image: url(http://go-hiking.ru/github/mrdonuts/header-1.jpg);
+    background-image: url(../images/header-1.jpg);
 }
 .main-slide-2 {
-    background-image: url(http://go-hiking.ru/github/mrdonuts/header.jpg);
+    background-image: url(../images/header.jpg);
 }
 .play-col {
     position: relative;
